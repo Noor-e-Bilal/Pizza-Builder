@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8957cad9f1eba6c3e4ca44ad0c5bd1ee",
+    "revision": "8f7217c613fb8727b6756a8881839a02",
     "url": "/Pizza-Builder/index.html"
   },
   {
-    "revision": "f232e2a1d79b0b2a9814",
+    "revision": "8887e7283040a97926ff",
     "url": "/Pizza-Builder/static/css/main.6a779ac3.chunk.css"
   },
   {
-    "revision": "a5c97ec9365381a16786",
-    "url": "/Pizza-Builder/static/js/2.53296089.chunk.js"
+    "revision": "642b67676c100600ba4e",
+    "url": "/Pizza-Builder/static/js/2.42d8d7eb.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/Pizza-Builder/static/js/2.53296089.chunk.js.LICENSE.txt"
+    "url": "/Pizza-Builder/static/js/2.42d8d7eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f232e2a1d79b0b2a9814",
-    "url": "/Pizza-Builder/static/js/main.d56edc77.chunk.js"
+    "revision": "8887e7283040a97926ff",
+    "url": "/Pizza-Builder/static/js/main.acc22b08.chunk.js"
   },
   {
-    "revision": "68c450a96721d79b9448",
-    "url": "/Pizza-Builder/static/js/runtime-main.c191aa42.js"
+    "revision": "7cdd6b6ab50f9458f4be",
+    "url": "/Pizza-Builder/static/js/runtime-main.ff7f01dd.js"
   },
   {
     "revision": "204b89ab0f4c805f4d09a57f88d59263",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Pizza-Builder/static/css/main.6a779ac3.chunk.css",
-    "main.js": "/Pizza-Builder/static/js/main.d56edc77.chunk.js",
-    "main.js.map": "/Pizza-Builder/static/js/main.d56edc77.chunk.js.map",
-    "runtime-main.js": "/Pizza-Builder/static/js/runtime-main.c191aa42.js",
-    "runtime-main.js.map": "/Pizza-Builder/static/js/runtime-main.c191aa42.js.map",
-    "static/js/2.53296089.chunk.js": "/Pizza-Builder/static/js/2.53296089.chunk.js",
-    "static/js/2.53296089.chunk.js.map": "/Pizza-Builder/static/js/2.53296089.chunk.js.map",
+    "main.js": "/Pizza-Builder/static/js/main.acc22b08.chunk.js",
+    "main.js.map": "/Pizza-Builder/static/js/main.acc22b08.chunk.js.map",
+    "runtime-main.js": "/Pizza-Builder/static/js/runtime-main.ff7f01dd.js",
+    "runtime-main.js.map": "/Pizza-Builder/static/js/runtime-main.ff7f01dd.js.map",
+    "static/js/2.42d8d7eb.chunk.js": "/Pizza-Builder/static/js/2.42d8d7eb.chunk.js",
+    "static/js/2.42d8d7eb.chunk.js.map": "/Pizza-Builder/static/js/2.42d8d7eb.chunk.js.map",
     "index.html": "/Pizza-Builder/index.html",
-    "precache-manifest.7df7d76229cbd3383e3f46c07f413924.js": "/Pizza-Builder/precache-manifest.7df7d76229cbd3383e3f46c07f413924.js",
+    "precache-manifest.922e95f8d19bea5f3263564506615795.js": "/Pizza-Builder/precache-manifest.922e95f8d19bea5f3263564506615795.js",
     "service-worker.js": "/Pizza-Builder/service-worker.js",
     "static/css/main.6a779ac3.chunk.css.map": "/Pizza-Builder/static/css/main.6a779ac3.chunk.css.map",
-    "static/js/2.53296089.chunk.js.LICENSE.txt": "/Pizza-Builder/static/js/2.53296089.chunk.js.LICENSE.txt",
+    "static/js/2.42d8d7eb.chunk.js.LICENSE.txt": "/Pizza-Builder/static/js/2.42d8d7eb.chunk.js.LICENSE.txt",
     "static/media/BaseCheese.png": "/Pizza-Builder/static/media/BaseCheese.204b89ab.png",
     "static/media/Basil.png": "/Pizza-Builder/static/media/Basil.871c221e.png",
     "static/media/Mushroom.png": "/Pizza-Builder/static/media/Mushroom.4d30186a.png",
@@ -23,9 +23,9 @@
     "static/media/pizza logo.png": "/Pizza-Builder/static/media/pizza logo.fbdba6d0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c191aa42.js",
-    "static/js/2.53296089.chunk.js",
+    "static/js/runtime-main.ff7f01dd.js",
+    "static/js/2.42d8d7eb.chunk.js",
     "static/css/main.6a779ac3.chunk.css",
-    "static/js/main.d56edc77.chunk.js"
+    "static/js/main.acc22b08.chunk.js"
   ]
 }
